@@ -1,0 +1,15 @@
+<Solution>
+  <PropertyGroup Name="build" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MenuWnd.csd" Type="Layer" />
+        <Project Name="MainLayer.csd" Type="Layer" />
+        <Image Name="old_crackly_parchment_texture_by_teeth_man.png" />
+        <Project Name="LobbyLayer.csd" Type="Layer" />
+        <Project Name="GameLayer.csd" Type="Layer" />
+        <Project Name="RoomLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
